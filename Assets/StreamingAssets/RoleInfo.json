@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/A","atk":2,"tips":"刀男","lockMoney":0,"type":1,"hitEff":"eff/1"},
+{"id":2,"res":"Role/B","atk":3,"tips":"手枪男","lockMoney":0,"type":2,"hitEff":"eff/1"},
+{"id":3,"res":"Role/C","atk":4,"tips":"狙神","lockMoney":200,"type":2,"hitEff":"eff/1"},
+{"id":4,"res":"Role/D","atk":5,"tips":"步枪男","lockMoney":300,"type":2,"hitEff":"eff/1"},
+{"id":5,"res":"Role/E","atk":6,"tips":"机枪兵","lockMoney":400,"type":2,"hitEff":"eff/1"},
+{"id":6,"res":"Role/F","atk":7,"tips":"火箭兵","lockMoney":500,"type":2,"hitEff":"eff/1"}
+]

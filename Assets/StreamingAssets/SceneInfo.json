@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImg/GameScene1","name":"疯狂树林","tips":"这是一片神奇的地方，充满着沼泽和树林","sceneName":"GameScene1","money":200,"towerHp":100},
+{"id":2,"imgRes":"SceneImg/GameScene2","name":"极寒雪地","tips":"这是一片严寒之地，寒风刺骨，人烟稀少","sceneName":"GameScene2","money":200,"towerHp":100},
+{"id":3,"imgRes":"SceneImg/GameScene3","name":"熔岩之心","tips":"这里位于火山地带，弥漫着硝烟","sceneName":"GameScene3","money":200,"towerHp":100}
+]
